@@ -1,0 +1,9 @@
+certifi
+python-ilorest-library
+keyring
+fabric
+patchwork
+pyyaml
+natsort
+
+

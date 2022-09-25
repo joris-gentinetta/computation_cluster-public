@@ -1,0 +1,9 @@
+CPU_requirement: 10
+RAM_requirement: 60
+arguments:
+  max_bin: 10
+  n_estimators: 1
+data_folder: test_data
+entry_point: tuning.py
+job_id: 0
+project_folder: LGBM

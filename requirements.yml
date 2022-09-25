@@ -1,0 +1,14 @@
+name: server
+
+channels:
+  - conda-forge
+requirements:
+  - pip:
+      - certifi
+      - python-ilorest-library
+      - keyring
+      - fabric
+      - patchwork
+      - pyyaml
+
+
